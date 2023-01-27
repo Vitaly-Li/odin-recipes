@@ -1,2 +1,2 @@
 This project is a very simple site with various recipes accessible by a home page.
-This project demonstrates knowledge of basic tags including <p>, <a>, <h>, <img>, etc.
+This project demonstrates knowledge of basic tags.
